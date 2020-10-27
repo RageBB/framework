@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Ant Design. Framework." />
+        <module name="tests" />
+        <module name="framework" />
       </profile>
     </annotationProcessing>
   </component>
