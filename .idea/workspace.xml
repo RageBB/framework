@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86cff6ca-22ba-4942-8756-c18015f8dbdb" name="Default Changelist" comment="" />
+    <list default="true" id="86cff6ca-22ba-4942-8756-c18015f8dbdb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +18,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -52,5 +57,30 @@
       <updated>1603805227079</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2144" y="349" key="MergeDialog" timestamp="1603897754144">
+      <screen x="1440" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2144" y="349" key="MergeDialog/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1603897754144" />
+    <state x="2361" y="488" key="MultipleFileMergeDialog" timestamp="1603897754175">
+      <screen x="1440" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2361" y="488" key="MultipleFileMergeDialog/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1603897754175" />
+    <state x="2494" y="440" key="git4idea.branch.GitSmartOperationDialog" timestamp="1603897737149">
+      <screen x="1440" y="0" width="2560" height="1440" />
+    </state>
+    <state x="2494" y="440" key="git4idea.branch.GitSmartOperationDialog/0.0.1440.900/1440.0.2560.1440@1440.0.2560.1440" timestamp="1603897737149" />
   </component>
 </project>
